@@ -1,0 +1,7 @@
+godelta
+Copyright 2026 Peron
+
+This product includes software derived from xdelta3
+(https://github.com/jmacd/xdelta), Copyright Joshua MacDonald,
+licensed under the Apache License, Version 2.0: the VCDIFF decoding rules,
+the secondary compression framing, and the delta merge algorithm.
