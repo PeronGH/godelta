@@ -3,7 +3,7 @@ package godelta
 // Default limits used when the corresponding Options field is zero.
 const (
 	DefaultMaxWindowSize       = 64 << 20
-	DefaultSourceBlockSize     = 1 << 20
+	DefaultSourceBlockSize     = 64 << 10
 	DefaultSourceCacheSize     = 32 << 20
 	DefaultMaxSecondaryHistory = 64 << 20
 	DefaultChainMemoryLimit    = 64 << 20
